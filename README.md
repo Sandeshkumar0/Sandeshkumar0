@@ -28,7 +28,7 @@ The zombie-survival project had a subtle state-aliasing bug: previous and curren
 
 The result includes one-shot explosion damage, per-bomber damage and kill attribution, stable padded observations, seeded resets, checkpoint resume support, and **24 deterministic regression tests**. A short PPO smoke run is documented honestly: it verifies the full training path, while its mixed results are treated as evidence for more training rather than proof of a strong policy.
 
-[Read the implementation](https://github.com/Sandeshkumar0/reinforcement_learning) · [See the regression tests](https://github.com/Sandeshkumar0/reinforcement_learning/blob/main/tests/test_environment.py) · [Review the smoke-test report](https://github.com/Sandeshkumar0/reinforcement_learning/blob/main/logs/smoke_v2/REPORT.md)
+[Read the full case study](https://github.com/Sandeshkumar0/Sandeshkumar0/blob/main/case-studies/zombie-survival.md) · [See the implementation](https://github.com/Sandeshkumar0/reinforcement_learning) · [Review the smoke-test report](https://github.com/Sandeshkumar0/reinforcement_learning/blob/main/logs/smoke_v2/REPORT.md)
 
 ## Currently working on
 
