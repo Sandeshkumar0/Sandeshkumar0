@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 42" role="img" aria-labelledby="title">
+  <title id="title">Navy gold and red jolly-roger divider</title>
+  <path d="M0 21H1200" stroke="#0b1d3a" stroke-width="10"/>
+  <path d="M0 21H1200" stroke="#f2b705" stroke-width="3" stroke-dasharray="18 14"/>
+  <circle cx="600" cy="21" r="18" fill="#c0392b" stroke="#f5e6c8" stroke-width="5"/>
+  <path d="M590 11L610 31M610 11L590 31" stroke="#f5e6c8" stroke-width="4" stroke-linecap="round"/>
+</svg>

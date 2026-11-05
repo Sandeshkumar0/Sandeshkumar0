@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">Wanted poster for Sandesh</title>
+  <desc id="desc">A parchment wanted poster with a navy border, gold rope, and a red jolly-roger-inspired compass mark.</desc>
+  <rect width="1200" height="330" rx="18" fill="#f5e6c8"/>
+  <rect x="10" y="10" width="1180" height="310" rx="14" fill="none" stroke="#0b1d3a" stroke-width="8"/>
+  <rect x="28" y="28" width="1144" height="274" rx="10" fill="none" stroke="#f2b705" stroke-width="3" stroke-dasharray="10 8"/>
+  <circle cx="115" cy="166" r="65" fill="#0b1d3a"/>
+  <circle cx="115" cy="166" r="48" fill="#c0392b" stroke="#f2b705" stroke-width="5"/>
+  <path d="M75 206L155 126M75 126L155 206M115 112V220M61 166H169" stroke="#f5e6c8" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="115" cy="166" r="13" fill="#f2b705"/>
+  <text x="205" y="78" fill="#c0392b" font-family="Georgia,serif" font-size="31" font-weight="700" letter-spacing="8">WANTED</text>
+  <text x="205" y="153" fill="#0b1d3a" font-family="Georgia,serif" font-size="62" font-weight="700">SANDESH</text>
+  <text x="208" y="193" fill="#0b1d3a" font-family="Arial,sans-serif" font-size="21" letter-spacing="2">FULL-STACK BUILDER • APPLIED ML • PRODUCT THINKER</text>
+  <line x1="205" y1="220" x2="1090" y2="220" stroke="#0b1d3a" stroke-width="2"/>
+  <text x="205" y="268" fill="#0b1d3a" font-family="Georgia,serif" font-size="29" font-weight="700">BOUNTY: 40+ PUBLIC VOYAGES</text>
+  <text x="955" y="268" fill="#c0392b" font-family="Arial,sans-serif" font-size="16" font-weight="700">DEAD OR BUILDING</text>
+</svg>
