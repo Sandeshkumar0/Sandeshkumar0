@@ -70,16 +70,12 @@ My strongest area is taking an ambiguous workflow and turning it into a complete
 ## Bounty Board
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sandeshkumar0&show_icons=true&hide_border=true&bg_color=0b1d3a&title_color=f2b705&text_color=f5e6c8&icon_color=c0392b&rank_icon=github&include_all_commits=true" alt="Sandesh GitHub statistics" height="180">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandeshkumar0&hide_border=true&background=0b1d3a&ring=f2b705&fire=c0392b&currStreakLabel=f5e6c8&sideLabels=f5e6c8&currStreakNum=f2b705&sideNums=f5e6c8&dates=f5e6c8" alt="Sandesh GitHub contribution streak" height="180">
+  <a href="https://github.com/Sandeshkumar0?tab=repositories"><img src="https://img.shields.io/badge/Public%20repositories-40%2B-0b1d3a?style=for-the-badge&logo=github&logoColor=f2b705" alt="More than 40 public repositories"></a>
+  <a href="https://github.com/Sandeshkumar0?tab=overview"><img src="https://img.shields.io/badge/Contribution%20graph-GitHub-f2b705?style=for-the-badge&logo=github&logoColor=0b1d3a" alt="GitHub contribution graph"></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeshkumar0&layout=compact&hide_border=true&bg_color=0b1d3a&title_color=f2b705&text_color=f5e6c8&langs_count=8" alt="Sandesh most used programming languages" height="180">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandeshkumar0&bg_color=0b1d3a&color=f5e6c8&line=f2b705&point=c0392b&area=true&hide_border=true" alt="Sandesh GitHub activity graph" width="100%">
+  <a href="https://github.com/Sandeshkumar0?tab=activity"><img src="https://img.shields.io/badge/Live%20activity-View%20on%20GitHub-c0392b?style=for-the-badge&logo=github&logoColor=f5e6c8" alt="View live GitHub activity"></a>
 </p>
 
 ## Road to Laugh Tale
