@@ -12,6 +12,12 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate self-hosted dashboard
+        run: python .github/scripts/generate_dashboard.py
+
       - name: Generate snake
         uses: Platane/snk@v3
         with:
