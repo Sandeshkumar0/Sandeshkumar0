@@ -17,6 +17,8 @@ jobs:
 
       - name: Generate self-hosted dashboard
         run: python .github/scripts/generate_dashboard.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate snake
         uses: Platane/snk@v3
