@@ -70,12 +70,9 @@ My strongest area is taking an ambiguous workflow and turning it into a complete
 ## Bounty Board
 
 <p align="center">
-  <a href="https://github.com/Sandeshkumar0?tab=repositories"><img src="https://img.shields.io/badge/Public%20repositories-40%2B-0b1d3a?style=for-the-badge&logo=github&logoColor=f2b705" alt="More than 40 public repositories"></a>
-  <a href="https://github.com/Sandeshkumar0?tab=overview"><img src="https://img.shields.io/badge/Contribution%20graph-GitHub-f2b705?style=for-the-badge&logo=github&logoColor=0b1d3a" alt="GitHub contribution graph"></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Sandeshkumar0?tab=activity"><img src="https://img.shields.io/badge/Live%20activity-View%20on%20GitHub-c0392b?style=for-the-badge&logo=github&logoColor=f5e6c8" alt="View live GitHub activity"></a>
+  <a href="https://github.com/Sandeshkumar0?tab=repositories">
+    <img src="https://raw.githubusercontent.com/Sandeshkumar0/Sandeshkumar0/gh-pages/profile-dashboard.svg" alt="Self-generated GitHub bounty dashboard showing repositories, stars, followers, top languages, and recent projects" width="100%">
+  </a>
 </p>
 
 ## Road to Laugh Tale
