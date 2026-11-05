@@ -91,7 +91,7 @@ My strongest area is taking an ambiguous workflow and turning it into a complete
 ## Contribution voyage
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sandeshkumar0/Sandeshkumar0/output/github-contribution-grid-snake.svg" alt="Animated contribution graph snake" width="100%">
+  <img src="https://raw.githubusercontent.com/Sandeshkumar0/Sandeshkumar0/gh-pages/github-contribution-grid-snake.svg" alt="Animated contribution graph snake" width="100%">
 </p>
 
 <p align="center">
